@@ -5,6 +5,20 @@ A Streamlit + ECharts dashboard for tracking AI infrastructure, or "AI shovel," 
 The dashboard is designed for long-term monitoring of companies that support the AI compute buildout beyond just GPU makers. It compares benchmarks, industry indexes, peer stocks, and return correlations in a clean dark dashboard layout.
 
 ---
+# AI Shovel Dashboard
+
+A dashboard tracking AI infrastructure and “shovel” companies.
+
+## Live Demo
+
+- Streamlit App: YOUR_STREAMLIT_LINK_HERE
+- Static Page: YOUR_GITHUB_PAGES_LINK_HERE
+
+## Screenshot
+
+![Dashboard Screenshot](docs/images/dashboard.png)
+
+--
 
 ## Key Idea
 
