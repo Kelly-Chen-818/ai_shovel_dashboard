@@ -3,3 +3,6 @@ yfinance
 pandas
 numpy
 streamlit-echarts
+
+matplotlib
+openpyxl
