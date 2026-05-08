@@ -11,9 +11,8 @@ A dashboard tracking AI infrastructure and “shovel” companies.
 
 ## Live Demo
 
-- Streamlit App: YOUR_STREAMLIT_LINK_HERE
-- Static Page: YOUR_GITHUB_PAGES_LINK_HERE
-
+- Streamlit App: [YOUR_STREAMLIT_LINK_HERE](https://aishoveldashboard-ap8nqebdanjxccfqddfyud.streamlit.app/)
+- Static Page: https://kelly-chen-818.github.io/ai_shovel_dashboard/
 ## Screenshot
 
 ![Dashboard Screenshot](docs/images/dashboard.png)
